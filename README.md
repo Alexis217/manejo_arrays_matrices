@@ -9,7 +9,7 @@ Programa para registrar datos de personas y mostrar resultados ordenados.
 1. Clonar repositorio:
 
 ```bash
-git clone [...]
+git clone [https://github.com/Alexis217/manejo_arrays_matrices.git]
 
 ```
 
